@@ -77,6 +77,10 @@ img{
     cursor: pointer;
 }
 
+.card__button span{
+    margin-top: 20px;
+}
+
 .card__social a:hover {
     color: #f2726a;
 }
